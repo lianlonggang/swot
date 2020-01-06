@@ -59,3 +59,4 @@ stu.shzu.edu.cn
 mail.wcccd.edu
 ustb.edu.cn
 cumtb.edu.cn
+vccs.edu
